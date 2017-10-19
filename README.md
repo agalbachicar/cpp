@@ -1,2 +1,3 @@
 # cpp
-C++ boilerplate project.
+
+C++ boilerplate project structure.
